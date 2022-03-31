@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Duck</string>
+    <string name="text_view_question">How do you like your tea served?</string>
+</resources>
